@@ -2,6 +2,7 @@
 import bob.ip.base
 import bob.io.base
 import bob.learn.boosting
+import bob.math
 
 from . import version
 from .version import module as __version__
